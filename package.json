@@ -5,7 +5,7 @@
   "author":       "Steve Dekorte",
   "website":      "http://iolanguage.org/",
   "readme":       "README.md",
-  "protos":       ["QDBM"],
+  "protos":       ["QDBM", "DKDB"],
   "dependencies": {
     "libs":     ["qdbm"],
     "headers":  [],
