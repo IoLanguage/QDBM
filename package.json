@@ -1,0 +1,15 @@
+{
+  "name":         "QDBM",
+  "version":      "0.1",
+  "description":  "An ordered key/value database that supports transactions and arbitrary kay and value sizes.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["QDBM"],
+  "dependencies": {
+    "libs":     ["qdbm"],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
